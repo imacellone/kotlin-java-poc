@@ -1,0 +1,9 @@
+PUT http://localhost:8080/books
+Content-Type: application/json
+Accept: application/json
+
+{
+  "id" : 1,
+  "title" : "UPDATED TEST BOOK"
+}
+
